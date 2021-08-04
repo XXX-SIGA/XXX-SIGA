@@ -1,7 +1,7 @@
 ## GitHub Stats  
 ![MNAWN-777's GitHub stats](https://github-readme-stats.vercel.app/api?username=MN4WN1-777&show_icons=true&theme=chartreuse-dark)  
-## Repositories  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MN4WN1&repo=Munnn&theme=chartreuse-dark)](https://github.com/MN4WN1-777/Munnn)
+## Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MN4WN1-777&repo=Munnn&theme=chartreuse-dark)](https://github.com/MN4WN1-777/Munnn)
 
 
 
