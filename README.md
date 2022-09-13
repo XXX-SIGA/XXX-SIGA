@@ -1,6 +1,7 @@
 
 # HI I AM MUN !!!
-![Alt text](https://camo.githubusercontent.com/ebf84be3c9b929b89ce2dbe8489c6df660a086d4785f432186b654cab36616c3/68747470733a2f2f6a2e746f7034746f702e696f2f705f31393636736b677738302e6a7067)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=WELCOME+TO+MY+GITHUB+MARKWIDE1)](https://git.io/typing-svg)
+
 
 ![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/md7Oqrf.gif)
 
