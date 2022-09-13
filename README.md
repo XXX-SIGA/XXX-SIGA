@@ -1,5 +1,5 @@
 
-[![Typing SVG](color=00FF00H=I+I+AM+MUN+!!!)
+# (color=00FF00H=I+I+AM+MUN+!!!)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=WELCOME+TO+MY+GITHUB+MN4WN1)](https://git.io/typing-svg)
 
 
