@@ -7,7 +7,7 @@
 
 </p>
 
-![Alt text](https://github.com/MRVIVEK-CODER/Decompiler/raw/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
+<img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ## GitHub Stats  
 ![MNAWN-777's GitHub stats](https://github-readme-stats.vercel.app/api?username=MN4WN1-777&show_icons=true&theme=chartreuse-dark)  
